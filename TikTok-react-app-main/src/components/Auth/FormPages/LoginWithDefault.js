@@ -119,7 +119,7 @@ function LoginWithDefault() {
                 <br></br>
                 <span>Tài khoản: sondnf8@gmail.com</span>
                 <br></br>
-                <span>Mật khẩu API: 123456</span>
+                <span>Mật khẩu: 123456</span>
             </div>
             <Button
                 className={cx('btn-submit')}
