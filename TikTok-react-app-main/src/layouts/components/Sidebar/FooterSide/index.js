@@ -12,6 +12,13 @@ function FooterSide() {
             <div className={cx('details-page')}>
                 <span>Nguồn API: F8</span>
             </div>
+            <div className={cx('details-page')}>
+                <span>Tài khoản đăng nhập:</span>
+            </div>
+            <div className={cx('details-page')}>
+                <span>Tài khoản: sondnf8@gmail.com</span>
+                <span>Mật khẩu API: 123456</span>
+            </div>
 
             <div className={cx('details-page')}>
                 <span> Phạm Thái Nguyên © 2024 </span>
