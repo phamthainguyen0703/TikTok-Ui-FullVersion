@@ -116,6 +116,8 @@ function LoginWithDefault() {
             </div>
             <div className={cx('forgot')}>
                 <span>Forgot password?</span>
+                <span>Tài khoản: sondnf8@gmail.com</span>
+                <span>Mật khẩu API: 123456</span>
             </div>
             <Button
                 className={cx('btn-submit')}
